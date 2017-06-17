@@ -1,0 +1,16 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=C5:30:74:65:88:06:C1:18:FD:6D:03:EA:B5:8C:CC:58:E8:24:32:D7%3Bbrbr.ufrpe.httpwww.localizarural
+
+    You can also add your credentials to an existing key, using this line:
+    C5:30:74:65:88:06:C1:18:FD:6D:03:EA:B5:8C:CC:58:E8:24:32:D7;brbr.ufrpe.httpwww.localizarural
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyDGYRKp8D1lrAyRvaHeiEXRr3izS8VuRuA</string>
+</resources>
